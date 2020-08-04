@@ -25,9 +25,6 @@ Ghosh, S.; Hawman, P.; Cai, W.; Dyer, W.; Ragu Chanthar, P.K. “Hunting for Hyd
 
 Ghosh, S.; He, J.; Chen, N.; Ragu Chanthar, P.K. “Getting Dirty to Understand Salt Marsh Dieback.” Earthzine November 2013:[https://earthzine.org/getting-dirty-to-understand-salt-marsh-dieback/](url).
 
-[Link](url) and ![Image](src)
-```
-
 
 
 ### Work Experience
