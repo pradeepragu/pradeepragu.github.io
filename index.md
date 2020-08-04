@@ -28,12 +28,36 @@ Ghosh, S.; He, J.; Chen, N.; Ragu Chanthar, P.K. “Getting Dirty to Understand 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pradeepragu/pradeepragu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Work Experience
 
-### Support or Contact
+WolfSquad technologies Pvt Ltd, - Director (June 2019-Present)
+University of California, Los Angeles – Programmer Analyst (June 2018–February 2019)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Developed an inventory system as web application using React framework
+Designed the different modules for the project and developed the front end
+Utilized MySQL as backend to store the inventory search results
+To test the web application, selenium, KARMA was used
+Good hands-on experience with Atlassian product JIRA
+
+University of Georgia, Athens – Programmer Analyst (October 2017–June 2018)
+
+Front end development, developing Glygen system web application using Bootstrap 3 framework
+Developed Restful web services to return Glycan images, Glycan detail attributes as JSON
+Using MySQL as backend to display the users search for Glycans
+Data visualization JS libraries like plotlyJS, D3JS were used
+HTML5 and SVG were used to draw the complex representations of Glygen systems
+
+3-GIS, Decatur – Solution Engineer (June 2016–August 2017)
+
+Used ESRI Javascript API’s to plot/map the telecom data set
+Used Python to develop the data loading tool to load and update the client’s data in ArcMap 10.2
+Applied telecom data set schemas with ESRI standards in POSTgreSQL and Oracle database  
+Test the 3-GIS web application flex using adobe flash debugger & fiddler and JavaScript using selenium testing framework
+Used EC2, S3 in Amazon web services to create an independent storage and server for the 3-GIS clients
+
+U.S. Forest Service Atlanta – Research Consultant (August 2014–December 2014) 
+
+Involved in geo-processing of the eco-region of Southeast U.S. map to determine the difference in land cover and land use change.
+Used Python to develop the data loading tool to load and update the client’s data in ArcMap 10.2
